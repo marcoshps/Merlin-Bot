@@ -1,0 +1,26 @@
+{
+    "Demonios": {
+        "Demon": {
+            "nome": "Demon",
+            "vida": 1,
+            "xp": 6000,
+            "max_hit": 500,
+            "level": 1,
+            "foto": "https://www.tibiawiki.com.br/images/7/75/Demon.gif",
+            "corpose": "https://www.tibiawiki.com.br/images/e/ee/Slain_Demon.gif",
+            "loot": [6, 7],
+            "says": ["Your soul will be mine!", "MUHAHAHAHA!", "CHAMEK ATH UTHUL ARAK!", "I SMELL FEEEEAAAAAR!", "Your resistance is futile!"]
+        },
+        "Dragon": {
+            "nome": "Dragon",
+            "vida": 1,
+            "xp": 700,
+            "max_hit": 300,
+            "level": 10,
+            "foto": "https://www.tibiawiki.com.br/images/e/e0/Dragon.gif",
+            "corpose": "https://www.tibiawiki.com.br/images/d/d1/Dead_Dragon.gif",
+            "loot": [1, 2, 3, 14, 15],
+            "says": ["FCHHHH", "GROOOOAAAAAAAAR"]
+        }
+    }
+}

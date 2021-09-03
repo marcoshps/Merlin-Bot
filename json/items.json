@@ -1,0 +1,67 @@
+{
+    "Itens": {
+        "1": {
+            "nome": "Royal Helmet",
+            "tipo": "helmet",
+            "defesa": 10,
+            "ataque": 0,
+            "descrição": "capacete resistente, da era romana"
+        },
+        "2": {
+            "nome": "Dragon Scale Mail",
+            "tipo": "armor",
+            "defesa": 15,
+            "ataque": 0,
+            "descrição": "armadura resistente, da era romana"
+        },
+        "3": {
+            "nome": "Golden Legs",
+            "tipo": "legs",
+            "defesa": 25,
+            "ataque": 0,
+            "descrição": "legs resistente, da era romana"
+        },
+        "4": {
+            "nome": "Boots of haste",
+            "tipo": "boots",
+            "defesa": 1,
+            "ataque": 0,
+            "descrição": "legs resistente, da era romana"
+        },
+        "5": {
+            "nome": "MasterMind Shield",
+            "tipo": "shield",
+            "defesa": 35,
+            "ataque": 0,
+            "descrição": "legs resistente, da era romana"
+        },
+        "6": {
+            "nome": "StoneCutter Axe",
+            "tipo": "weapon",
+            "defesa": 15,
+            "ataque": 50,
+            "descrição": "legs resistente, da era romana"
+        },
+        "7": {
+            "nome": "Simples Dress",
+            "tipo": "armor",
+            "defesa": 1,
+            "ataque": 0,
+            "descrição": "legs resistente, da era romana"
+        },
+        "14": {
+            "nome": "Crown Legs",
+            "tipo": "legs",
+            "defesa": 1,
+            "ataque": 0,
+            "descrição": "legs resistente, da era romana"
+        },
+        "15": {
+            "nome": "Blue Robe",
+            "tipo": "armor",
+            "defesa": 1,
+            "ataque": 0,
+            "descrição": "armor resistente, da era romana"
+        }
+    }
+}
